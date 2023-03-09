@@ -1,4 +1,4 @@
-site_name: Payloads All The Things
+site_name: Awsome Bug Bounty
 theme:
   name: material
   icon:
@@ -40,14 +40,14 @@ markdown_extensions:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
 
-repo_url: https://github.com/swisskyrepo/PayloadsAllTheThings/
+repo_url: https://github.com/doapply/docs/
 edit_uri: edit/master/
 plugins:
   - search
   - git-revision-date-localized
 
 # - git-committers:
-#     repository: swisskyrepo/PayloadsAllTheThings
+#     repository: doapply/docs
 #     branch: main
 #     token: !ENV GH_TOKEN
 #     docs_path: docs/
