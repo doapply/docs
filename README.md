@@ -54,23 +54,3 @@ You might also like the `Methodology and Resources` folder :
 You want more ? Check the [Books](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/_LEARNING_AND_SOCIALS/BOOKS.md) and [Youtube videos](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/_LEARNING_AND_SOCIALS/YOUTUBE.md) selections.
 
 
-👨‍💻 Contributions
------
-Be sure to read [CONTRIBUTING.md](https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/CONTRIBUTING.md)
-
-<p align="center">
-<a href="https://github.com/swisskyrepo/PayloadsAllTheThings/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=swisskyrepo/PayloadsAllTheThings&max=36">
-</a>
-</p>
-
-Thanks again for your contribution! :heart:
-
-
-🧙‍♂️ Sponsors
------
-
-This project is proudly sponsored by these companies. 
-
-[<img src="https://avatars.githubusercontent.com/u/48131541?s=40&v=4">](https://www.vaadata.com/)
-[<img src="https://avatars.githubusercontent.com/u/50994705?s=40&v=4">](https://github.com/projectdiscovery)
